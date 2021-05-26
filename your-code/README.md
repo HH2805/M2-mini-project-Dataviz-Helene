@@ -1,4 +1,4 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+
 
 # Project: Visualizing Real World Data - Women's Shoe Prices
 
@@ -24,9 +24,9 @@ I have focused on studying the potential links between price and brand, and betw
 
 ## Necessary Deliverables
 
- - A gitHub repo was created specifically for this project, and can be found at https://github.com/HH2805/M2-mini-project-Dataviz-Helene
+ - A github repo was created specifically for this project, and can be found at https://github.com/HH2805/M2-mini-project-Dataviz-Helene
  The repo includes:
- - a juspyter notebook named 'Shoes_Dataviz_preparation', which was used mainly to clean the dataset.
+ - a jupyter notebook named 'Shoes_Dataviz_preparation', which was used mainly to clean the dataset.
  - The slides of a Tableau workbook which can also be found at: https://public.tableau.com/profile/h.l.ne.hill#!/
 
 ## Insights
