@@ -4,11 +4,11 @@
 
 ## Overview
 
-The goal of this project was to practice creating and interpreting different types of visualizations using real world data.
+The goal of this project was to practice visualization using real world data, under a tight time constraint. 
 
 I have chosen to study a 2019 dataset of around 19,000 women's shoes and their associated product information. The dataset is the public extract of one of the databases sold by Datafiniti, a database provider. The public extract was downloaded from Kaggle.
 
-Each line of the dataset is a pair of shoes sold at a merchant website. It shows description, brand, price, merchant and more.
+Each line of the dataset is a pair of shoes sold at a merchant website. It shows brand, description, price, merchant and more.
 
 Although it is a big dataset, a lot of information appears to be missing or non-usable, which made for long data cleaning at the beginning of the project. We only kept 725 rows and 6 columns from an initial dataset of 19,045 rows and 47 columns.
 
